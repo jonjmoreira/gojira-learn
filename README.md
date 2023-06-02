@@ -1,0 +1,1 @@
+Repositório para a plataforma de aprendizado de tópicos em Tecnologia da Informação.
